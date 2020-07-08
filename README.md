@@ -14,7 +14,7 @@ Simple Relay Control Via Serial
 
 <h1>Prerequisites (installation)<h1>
   
-<p>Usage instructions (as a library)</p>
+<h1>Usage instructions (as a library)<h1>
 
 <ol>
 <li>Launch “idle” on window</li>

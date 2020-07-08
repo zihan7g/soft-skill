@@ -12,7 +12,6 @@ Simple Relay Control Via Serial
 
 <h1>Wiring Diagram</h1>
 
-<p><img alt="Image" title="icon" src="Wiring Diagram.svg" /><p>
 
 <h1>Prerequisites (installation)<h1>
  

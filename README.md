@@ -14,10 +14,14 @@ Simple Relay Control Via Serial
 
 <p><img alt="Image" title="icon" src="Wiring Diagram.svg" /></p>
 
-<hi>Prerequisites (installation)<h1>
+<h1>Prerequisites (installation)<h1>
   
+
 <o1>
-  
 <li>1.	PySerial package. To install, type the following from the command prompt:
 “pip install pyserial”<li>
   
+<h1>Usage instructions (as a library)</h>
+  
+<ol>
+<li>Hardware</li>

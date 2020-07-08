@@ -1,9 +1,11 @@
-# soft-skill
+# Simple Relay Control Via Serial
 
-<h1>Simple Relay Control Via Serial</h1>
 Simple Relay Control Via Serial
 
-<h2>Components</h2>
+
+## Component
+
+
 <ol>
 <li>Hardware</li>
 <li>relay.sketch.ino</li>

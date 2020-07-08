@@ -28,8 +28,11 @@ Simple Relay Control Via Serial
 
 ## Usage instructions (from the command line)
 
-1. To turn on the relay from the command line, go to the folder where “relay.py” is stored and type the following commands:
-a. “python relay.py 1” turns the relay on
-b. “python relay.py 0” turns the relay off
+1. To turn on the relay from the command line, go to the folder where “relay.py” is stored and type the following command:
+
+     a. “python relay.py 1” turns the relay on
+
+     b. “python relay.py 0” turns the relay off
+
 2. Note that if the hardware is not connected, an error message will be displayed.
 3. Note that if the hardware is connected but being used by another program, an error message will be displayed

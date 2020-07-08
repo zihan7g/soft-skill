@@ -17,6 +17,7 @@ Simple Relay Control Via Serial
 ## Prerequisites (installation)
 
 1. PySerial package. To install, type the following from the command prompt:
+
 “pip install pyserial”
   
 ## Usage instructions (as a library)

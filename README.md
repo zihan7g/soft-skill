@@ -4,8 +4,6 @@ Documentation by Orwa
 
 ## Components
 
-<span style="color: red;">text</span>
-
 1. Hardware
 2. relay_sketch.ino
 3. relay.py

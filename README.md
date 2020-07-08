@@ -11,7 +11,7 @@ Documentation by Orwa
 
 ## Wiring Diagram
 
-<p><img alt="Image" title="icon" src="Wiring Diagram.svg" /></p>
+![image](https://user-images.githubusercontent.com/68005877/86910992-d54b1700-c11a-11ea-9fa6-e79af707eaee.png)
 
 ## Prerequisites (installation)
 

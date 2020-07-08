@@ -12,6 +12,8 @@ Simple Relay Control Via Serial
 
 ## Wiring Diagram
 
+![Wiring Diagram](/Wiring Diagram.svg)
+
 ## Prerequisites (installation)
 
 1. PySerial package. To install, type the following from the command prompt:

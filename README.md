@@ -11,3 +11,6 @@ Simple Relay Control Via Serial
 </ol>
 
 <h1>Wiring Diagram</h1>
+
+
+![Image]Wiring Diagram.svg "icon")

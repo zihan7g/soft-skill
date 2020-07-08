@@ -1,7 +1,6 @@
 # Simple Relay Control Via Serial
 
-Simple Relay Control Via Serial
-
+Documentation by Orwa
 
 ## Components
 

@@ -21,6 +21,9 @@ Documentation by Orwa
 
 1. Launch “idle” on window
 2. Type: “import os;print(os.getcwd())"
+
+![image](https://user-images.githubusercontent.com/68005877/86910810-88ffd700-c11a-11ea-908e-85807d587477.jpg)
+
 3. Copy “relay.py” to subdirectory “Lib” within the folder above (displayed in idle in blue)
 4. Now you can use the library using “import relay” then calling the following functions:
    
